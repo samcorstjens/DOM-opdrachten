@@ -73,7 +73,7 @@ while(ollijst.hasChildNodes()){
 
 }
 
-var lijstAray = ["My best friend is <a href='http://www.google.com'>Silent Teach</a>","My best friend is <a href='http://www.google.com'>Code Monkey</a>","My best friend is <a href='http://www.google.com'>CodeCombar</a>"];
+var lijstAray = ["My best friend is <a href='http://silentteacher.toxicode.fr/'>Silent Teach</a>","My best friend is <a href='https://www.playcodemonkey.com/'>Code Monkey</a>","My best friend is <a href='https://codecombat.com/'>CodeCombat</a>"];
 
 for(i=0;i<lijstAray.length;i++){
   var createLi = document.createElement("li");
